@@ -1,3 +1,3 @@
 export default {
-    base: '/gh-pages/', // <repo>
+    base: '/vite-gh-pages/', // <repo>
 }
