@@ -1,7 +1,30 @@
-# vitePages
-Vite template with tailwind to Github Pages
+![Title](https://skills.thijs.gg/icons?i=vite,tailwind)
+
+### This repository includes already setup files for vite and tailwind.
+
+## Setup
 
 ```
-1. npm i vite
-2. npm run dev
+1. Download or use this GitHub template
+- If downloaded Initialize Repository (Publish to GitHub) your files
+```
+
+#### Use live server
+
+```
+2. npm i vite or npm install vite
+- This is to get the latest vite updates and to get it running
+
+3. npm run dev
+```
+
+#### Once finished
+
+```
+4. Configure your vite.config.js file and change the repo to your GitHub repository name
+
+5. npm run build
+
+6. npm run deploy
+- It can take some time until your pages is finished (It does everything automatically)
 ```
