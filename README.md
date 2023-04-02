@@ -6,7 +6,7 @@
 
 ```
 1. Download or use this GitHub template
-- If downloaded Initialize Repository (Publish to GitHub) your files
+- If you downloaded and want to publish to GitHub, Initialize Repository (Publish to GitHub) your files
 ```
 
 #### Use live server
