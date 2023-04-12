@@ -15,7 +15,9 @@
 2. npm i vite or npm install vite
 - This is to get the latest vite updates and to get it running
 
-3. npm run dev
+Optional: npm update
+
+3. npm run dev or npm run host (To share your live server)
 ```
 
 #### Once finished
