@@ -13,11 +13,11 @@
 
 ```
 2. npm i vite or npm install vite
-- This is to get the latest vite updates and to get it running
+- You need to do this because node_modules isn't included.
 
 Optional: npm update
 
-3. npm run dev or npm run host (To share your live server)
+3. npm run dev or npm run host (to share your live server)
 ```
 
 #### Once finished
