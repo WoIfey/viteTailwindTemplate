@@ -1,3 +1,3 @@
 export default {
-    base: '/vite/', // your GitHub <repo>
+    base: '/viteTailwindTemplate/', // your GitHub <repo>
 }
